@@ -2,6 +2,12 @@ import static org.junit.Assert.*;
 
 public class RomanToDecimalTest {
 
+    /**
+     * Unit test for romanToDecimal
+     * @version 10/3/2021
+     * @author 23morrisc
+     */
+
     @org.junit.Test
     public void romanToDecimal() {
 
